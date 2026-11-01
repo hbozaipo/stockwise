@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+from inicializar_demo import inicializar_demo
 from database import (
     criar_tabelas,
     cadastrar_produto,
@@ -26,6 +27,7 @@ st.set_page_config(
     layout="wide"
 )
 
+inicializar_demo()
 criar_tabelas()
 
 # ==========================================
