@@ -9,7 +9,7 @@
 
 O **StockWise** é uma aplicação web desenvolvida em Python, utilizando Streamlit e SQLite, com o objetivo de facilitar a gestão de produtos, estoques e vendas de pequenos empreendimentos comerciais.
 
-O sistema foi desenvolvido como parte do Projeto Integrador do curso de Engenharia de Software da Universidade Santo Amaro (UNISA), dentro da temática **Inovação e Transformação Digital para Pequenos Empreendimentos**.
+O sistema foi desenvolvido como parte do Projeto Integrador do curso de Engenharia de Software da Universidade Santo Amaro (UNISA), dentro da temática **Inovação e Transformação Digital**.
 
 A proposta surgiu da necessidade de oferecer aos pequenos comerciantes uma alternativa acessível para substituir processos manuais de gerenciamento, proporcionando maior organização das informações e apoio à tomada de decisões.
 
